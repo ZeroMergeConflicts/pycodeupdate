@@ -1,1 +1,24 @@
 
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pycodeupdate"
+version = "0.0.0"
+description = "NA"
+readme = "README.md"
+license = {file = "LICENSE"}
+authors = [
+    {name = "Virati Akiranandhan Reddy", email = "contact.viratiakiranandhanreddy+pypi@gmail.com"}
+]
+requires-python = ">=3.11"
+keywords = ["VIRATIAKIRANANDHANREDDY", "VIRATI AKIRANANDHAN REDDY", "ViratiAkiraNandhanReddy", "viratiakiranandhanreddy", "virati akiranandhan reddy"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Libraries :: Python Modules"
+]
+dependencies = []
